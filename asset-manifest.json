@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/albion-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/albion-calculator/static/js/main.20c94c3f.js",
+    "static/js/453.30cf11e9.chunk.js": "/albion-calculator/static/js/453.30cf11e9.chunk.js",
+    "index.html": "/albion-calculator/index.html",
+    "main.e6c13ad2.css.map": "/albion-calculator/static/css/main.e6c13ad2.css.map",
+    "main.20c94c3f.js.map": "/albion-calculator/static/js/main.20c94c3f.js.map",
+    "453.30cf11e9.chunk.js.map": "/albion-calculator/static/js/453.30cf11e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.20c94c3f.js"
+  ]
+}
