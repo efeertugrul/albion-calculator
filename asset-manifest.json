@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/albion-calculator/static/css/main.ccac17ed.css",
-    "main.js": "/albion-calculator/static/js/main.fe77c202.js",
+    "main.js": "/albion-calculator/static/js/main.1b961809.js",
     "static/js/453.30cf11e9.chunk.js": "/albion-calculator/static/js/453.30cf11e9.chunk.js",
     "index.html": "/albion-calculator/index.html",
     "main.ccac17ed.css.map": "/albion-calculator/static/css/main.ccac17ed.css.map",
-    "main.fe77c202.js.map": "/albion-calculator/static/js/main.fe77c202.js.map",
+    "main.1b961809.js.map": "/albion-calculator/static/js/main.1b961809.js.map",
     "453.30cf11e9.chunk.js.map": "/albion-calculator/static/js/453.30cf11e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccac17ed.css",
-    "static/js/main.fe77c202.js"
+    "static/js/main.1b961809.js"
   ]
 }
